@@ -1,2 +1,0 @@
-# fanchelsea
-mu thua chelsea
