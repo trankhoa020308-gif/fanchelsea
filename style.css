@@ -1,11 +1,13 @@
 h1 {
-color: green;
+  color: red;
 }
 .tieude {
-color: tomato;
-font-weight: bold; font-size: 20pt;
+  color: tomato;
+  font-weigth: bold;
+  font-size: 20pt;
 }
-• noidung { 
+.noidung {
   color: black;
-  font-style: normal; 
+  font-style: normal;
   font-size: 14pt;
+}
