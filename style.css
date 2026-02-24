@@ -1,7 +1,7 @@
 .container{
   dispaly: flex; 
   flex-direction: column;
-  heigh: 100vh;
+  height: 100vh;
 }
 .header{
   flex: 20%;
