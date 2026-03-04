@@ -19,7 +19,7 @@
   padding: 15px 20px;
   color: pink;
 }
-.menu hover{
+.menu a: hover{
   background-color: lightgray;
   color: black;
 .content{
@@ -34,7 +34,7 @@
 }
 .footer{
   flex: 5%;
-  background-color: lightgray
+  background-color: lightgray;
 }
 
 
