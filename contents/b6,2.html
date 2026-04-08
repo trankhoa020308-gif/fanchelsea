@@ -1,0 +1,21 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>B6,2</title>
+</head>
+<body>
+    <p id="kq"></p>
+  <script>
+    let pp = new URLSearchParams(window.location.search);
+    let ten = pp.get("txtTen");
+    let yk = pp.get("txtComment");
+    document.getElementById("kq").innerHTML = " Cảm ơn bạn " + ten + " đã góp ý <br><br>Chúng tôi ghi nhận ý kiến của bạn:<br>" + yk;
+  </script>
+    
+    <form action="B6,1.html">
+    <h3> Rowlet rất vui khi bạn đã đăng ký</h3>
+    <p> Công ty TNHH Rowlet xin ghi nhận và chúc bạn sức khỏe</p>
+   <input type = "submit" name = "cmd" value="Quay lại">
+    </form>
+</body>
+</html>
